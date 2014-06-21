@@ -104,13 +104,17 @@ p {
   margin: 10px 0 15px 0;
 }
 
+.inner {
+  padding-left: 10px;
+}
+
 footer p {
   color: #000000;
 }
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #336699;
   text-shadow: none;
 
   transition: color 0.5s ease;
