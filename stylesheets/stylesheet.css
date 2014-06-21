@@ -104,17 +104,13 @@ p {
   margin: 10px 0 15px 0;
 }
 
-.inner {
-  padding-left: 10px;
-}
-
-footer p {
+/*footer p {
   color: #000000;
-}
+}*/
 
 a {
   text-decoration: none;
-  color: #336699;
+  color: #6699CC;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -131,10 +127,10 @@ a {
 
 a:hover, a:focus {text-decoration: underline;}
 
-footer a {
+/*footer a {
   color: #F2F2F2;
   text-decoration: underline;
-}
+}*/
 
 em {
   font-style: italic;
@@ -370,8 +366,17 @@ Full-Width Styles
 
 #footer_wrap {
   background: url('../images/Calame_landsacpe_lower.jpg');
+  color: #fff;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 15px;
+
 }
 
+.copyright a {
+  color: #fff;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 15px;
+}
 
 
 /*******************************************************************************
@@ -427,3 +432,8 @@ Small Device Styles
   }
 
 }
+
+
+
+
+
