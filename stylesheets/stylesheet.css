@@ -293,6 +293,7 @@ Full-Width Styles
 
 #header_wrap {
   background: url('../images/Calame_landscape.jpg');
+  background-size: cover;
 }
 
 #header_wrap .inner {
@@ -366,6 +367,7 @@ Full-Width Styles
 
 #footer_wrap {
   background: url('../images/Calame_landsacpe_lower.jpg');
+  background-size: cover;
 }
 
 
