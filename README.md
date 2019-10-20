@@ -5,6 +5,7 @@ Dependencies
  - Ruby
  - RubyGems
  - GCC and Make
+ 
  See [Jekyll instlation docs](https://jekyllrb.com/docs/installation/) for details.
 
 Update Ruby as needed. 
