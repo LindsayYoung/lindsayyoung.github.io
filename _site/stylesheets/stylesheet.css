@@ -293,6 +293,7 @@ Full-Width Styles
 
 #header_wrap {
   background: url('../images/Calame_landscape.jpg');
+  background-size: cover;
 }
 
 #header_wrap .inner {
@@ -369,7 +370,7 @@ Full-Width Styles
   color: #fff;
   font-weight: 700;
   text-shadow: #111 0px 0px 15px;
-
+  background-size: cover;
 }
 
 .copyright a {
@@ -433,7 +434,10 @@ Small Device Styles
 
 }
 
+.indent1 {
+  margin-left: 30px;
+}
 
-
-
-
+.space1 {
+  padding-top: 15px;
+}
