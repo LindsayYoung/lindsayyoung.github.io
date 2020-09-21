@@ -141,7 +141,7 @@
             <h6>Fall 2015, Summer 2016</h6>
             <ul class="job">
                 <li>
-                    <strong>Unleashing Open Data with Python</strong> for the Master of Science in Government Analytics program. Designed and taught a Python course for graduate students how to use Python to collect and analyze data and display their project as a website. Graduate students ranged from those with no programming skills to professional programmers.
+                    <em>Unleashing Open Data with Python</em> for the Master of Science in Government Analytics program. Designed and taught a Python course for graduate students how to use Python to collect and analyze data and display their project as a website. Graduate students ranged from those with no programming skills to professional programmers.
                 </li class="last">
             </ul>
 
@@ -165,25 +165,25 @@
                 <li>Lead software engineer on vital projects, including large scale data projects and user facing properties.</li>
                 <li class="last">Coordinated across Design, Communications and Policy departments to strategize, develop and launch web products that use government data to connect journalists and citizens to their government.</li>
             </ul>
-            <strong>Projects:</strong>
+            <em>Projects:</em>
                 <ul class="job">
                     <li>
-                        <strong><a href="http://foreign.influenceexplorer.com/">Foreign Influence Explorer</a></strong><br>
+                        <em><a href="http://foreign.influenceexplorer.com/">Foreign Influence Explorer</a></em><br>
                     (Python, Django) A project that turns DOJ records into a database and website about foreign influence in the US.
                     </li>
                     <li>
-                        <strong><a href="https://sunlightlabs.github.io/congress/">Congress API</a></strong><br> (Ruby, Sinatra) An API about the work and structure of Congress.
+                        <em><a href="https://sunlightlabs.github.io/congress/">Congress API</a></em><br> (Ruby, Sinatra) An API about the work and structure of Congress.
                     </li>
                     <li>
-                        <strong><a href="https://scout.sunlightfoundation.com/">Scout</a></strong><br> (Ruby, Sinatra) An alert service that delivers emails about Congress, regulations, state governments and court documents.
+                        <em><a href="https://scout.sunlightfoundation.com/">Scout</a></em><br> (Ruby, Sinatra) An alert service that delivers emails about Congress, regulations, state governments and court documents.
                     </li>
                     <li>
-                        <strong><a href="http://capitolwords.org/">Capitol Words</a></strong><br>(Python Django) A website and API that ingests and parses the Congressional Record.
+                        <em><a href="http://capitolwords.org/">Capitol Words</a></em><br>(Python Django) A website and API that ingests and parses the Congressional Record.
                     </li class="last">
                 </ul>
 
 
-            <strong>Other experience:</strong>
+            <em>Other experience:</em>
             <ul class="job">
                 <li>
                     Helped craft policy agenda on foreign lobbying and contributed to getting FARA reform into the DOJ's <a href="http://www.justice.gov/open/doj-open-government-plan.pdf">Open Government Plan</a>.
@@ -225,16 +225,16 @@
         <h3>Education</h3>
         <p><strong>Pepperdine University</strong></p>
         <ul class="info">
-            <li><strong>Master in Public Policy 2010</strong></li>
-            <li><strong>3.96 GPA, Rank 2 of 50</strong></li>
-            <li class="last"><strong>Concentration in American politics and International Relations Minor in Economics</strong></li>
+            <li><em>Master in Public Policy 2010</em></li>
+            <li><em>3.96 GPA, Rank 2 of 50</em></li>
+            <li class="last"><em>Concentration in American politics and International Relations Minor in Economics</em></li>
         </ul>
 
         <p><strong>University California, Riverside</strong></p>
         <ul class="info">
-            <li><strong>B.A. in History 2007</strong></li>
+            <li><em>B.A. in History 2007</em></li>
             <li>3.91 GPA, Summa cum laude</li>
-            <li class="last"><strong>Phi Beta Kappa</strong></li>
+            <li class="last"><em>Phi Beta Kappa</em></li>
         </ul>
 
         <h3>Technologies</h3>
